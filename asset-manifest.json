@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webtutorial/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webtutorial/static/js/main.7fc90c4f.chunk.js",
+    "main.js.map": "/webtutorial/static/js/main.7fc90c4f.chunk.js.map",
+    "runtime-main.js": "/webtutorial/static/js/runtime-main.75e66078.js",
+    "runtime-main.js.map": "/webtutorial/static/js/runtime-main.75e66078.js.map",
+    "static/js/2.488a2f15.chunk.js": "/webtutorial/static/js/2.488a2f15.chunk.js",
+    "static/js/2.488a2f15.chunk.js.map": "/webtutorial/static/js/2.488a2f15.chunk.js.map",
+    "index.html": "/webtutorial/index.html",
+    "precache-manifest.88984ab7955c27f17b20890dcd5f13e6.js": "/webtutorial/precache-manifest.88984ab7955c27f17b20890dcd5f13e6.js",
+    "service-worker.js": "/webtutorial/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/webtutorial/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.488a2f15.chunk.js.LICENSE.txt": "/webtutorial/static/js/2.488a2f15.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/webtutorial/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75e66078.js",
+    "static/js/2.488a2f15.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7fc90c4f.chunk.js"
+  ]
+}
