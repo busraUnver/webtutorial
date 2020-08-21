@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webtutorial/static/css/main.5f361e03.chunk.css",
-    "main.js": "/webtutorial/static/js/main.7fc90c4f.chunk.js",
-    "main.js.map": "/webtutorial/static/js/main.7fc90c4f.chunk.js.map",
+    "main.js": "/webtutorial/static/js/main.3f1face4.chunk.js",
+    "main.js.map": "/webtutorial/static/js/main.3f1face4.chunk.js.map",
     "runtime-main.js": "/webtutorial/static/js/runtime-main.75e66078.js",
     "runtime-main.js.map": "/webtutorial/static/js/runtime-main.75e66078.js.map",
     "static/js/2.488a2f15.chunk.js": "/webtutorial/static/js/2.488a2f15.chunk.js",
     "static/js/2.488a2f15.chunk.js.map": "/webtutorial/static/js/2.488a2f15.chunk.js.map",
     "index.html": "/webtutorial/index.html",
-    "precache-manifest.88984ab7955c27f17b20890dcd5f13e6.js": "/webtutorial/precache-manifest.88984ab7955c27f17b20890dcd5f13e6.js",
+    "precache-manifest.da28d65ca11bb6b3e5286f80ec427291.js": "/webtutorial/precache-manifest.da28d65ca11bb6b3e5286f80ec427291.js",
     "service-worker.js": "/webtutorial/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/webtutorial/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.488a2f15.chunk.js.LICENSE.txt": "/webtutorial/static/js/2.488a2f15.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.75e66078.js",
     "static/js/2.488a2f15.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7fc90c4f.chunk.js"
+    "static/js/main.3f1face4.chunk.js"
   ]
 }
