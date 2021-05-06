@@ -18,35 +18,9 @@ function App() {
           rel="noopener noreferrer"
           onClick={handleClick}
         >
-          Ela
+          ALM demo website
         </a>
-        <a
-          className="App-link"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-          onClick={handleClick}
-        >
-          Kutay
-        </a>
-        <a
-          className="App-link"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-          onClick={handleClick}
-        >
-          Mustafa
-        </a>
-        <a
-          className="App-link"
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-          onClick={handleClick}
-        >
-          Güneş
-        </a>
+        
       </header>
     </div>
   );
